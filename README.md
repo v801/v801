@@ -9,5 +9,6 @@
 [Portfolio](https://github.com/v801/portfolio) - Frontend Web Development portfolio.  
 [Gir](https://github.com/v801/gir) - A discord chat bot with web scraping and API consumption.  
 [Forsaken](https://github.com/v801/forsaken-valheim) - The #1 weapons mod on Nexusmods for the game Valheim.  
-[Ascii Art](https://v801.github.io/ascii/) - Adventures in ASCII art.  
+[ASCII Art](https://v801.github.io/ascii/) - Adventures in ASCII art.  
 [Random Game Name](https://github.com/v801/random-game-name) - Node.js module that generates random silly sounding video game names.  
+[CTF scripts]() - Repository for all my ctf/wargame scripts.  
