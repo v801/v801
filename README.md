@@ -4,7 +4,7 @@
 :cat: I like writing [custom scripts](https://github.com/v801/fmm) to inject new functionality into my favorite sites.  
 :desktop_computer: CTFs & Wargames are fun! I'm always trying get better at them.  
 
-### Personal projects I've enjoyed creating:
+### Personal projects
 [Gir](https://github.com/v801/gir) - A discord chat bot with web scraping and API consumption.  
 [Portfolio](https://v801.github.io/portfolio/) - Frontend Web Development portfolio.  
 [CTF scripts](https://github.com/v801/capture-the-flag) - Repository for all my ctf/wargame scripts.  
