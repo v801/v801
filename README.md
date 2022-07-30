@@ -5,7 +5,7 @@
 :desktop_computer: CTFs & Wargames are fun! I'm always trying get better at them.  
 
 ### Personal projects
-[Cyber Security Blog](https://v801.github.io) - Posts about my exploration through web and cyber security.  
+[Cyber Security Blog](https://v801.github.io) - Weblog about my exploration through web and cyber security.  
 [Gir](https://github.com/v801/gir) - A discord chat bot with web scraping and API consumption.  
 [Portfolio](https://v801.github.io/portfolio/) - Frontend Web Development portfolio.  
 [CTF scripts](https://github.com/v801/capture-the-flag) - Repository for all my ctf/wargame scripts.  
