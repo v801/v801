@@ -5,9 +5,9 @@
 :cat: I like writing [custom scripts](https://github.com/v801/fmm) to inject new functionality into my favorite sites.  
 
 ### Personal projects
-[Cyber Security Blog](https://v801.github.io) - Weblog about my exploration through web and cyber security.  
-[go-port-scanner](https://github.com/v801/go-port-scanner) - Simple port scanner in Go.  
+[Cyber Security Blog](https://v801.github.io) - Weblog about my ~~exploration~~ exploitation through web and cyber security.  
+[Subdomain Recon](https://github.com/v801/subdomain-recon) - Chains multiple domain recon tools to enumerate subdomains on a target domain.  
 [Gir](https://github.com/v801/gir) - A discord chat bot with web scraping and API consumption.  
+[go-port-scanner](https://github.com/v801/go-port-scanner) - Simple port scanner in Go.  
 [Portfolio](https://v801.github.io/portfolio/) - Frontend Web Development portfolio.  
-[CTF scripts](https://github.com/v801/capture-the-flag) - Repository for all my ctf/wargame scripts.  
-[Random Game Name](https://github.com/v801/random-game-name) - Node.js module that generates random silly video game names.  
+[bash scripts](https://github.com/v801/bash-scripts) / [ctf scripts](https://github.com/v801/capture-the-flag) - Repos for bash and ctf scripts.  
